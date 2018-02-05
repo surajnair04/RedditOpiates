@@ -1,0 +1,68 @@
+"Notes"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Jan., 2016"	"2016/01"	178	Not Applicable	Not Applicable
+	"Feb., 2016"	"2016/02"	262	Not Applicable	Not Applicable
+	"Mar., 2016"	"2016/03"	290	Not Applicable	Not Applicable
+	"Apr., 2016"	"2016/04"	325	Not Applicable	Not Applicable
+	"May, 2016"	"2016/05"	293	Not Applicable	Not Applicable
+	"Jun., 2016"	"2016/06"	292	Not Applicable	Not Applicable
+	"Jul., 2016"	"2016/07"	352	Not Applicable	Not Applicable
+	"Aug., 2016"	"2016/08"	372	Not Applicable	Not Applicable
+	"Sep., 2016"	"2016/09"	412	Not Applicable	Not Applicable
+	"Oct., 2016"	"2016/10"	449	Not Applicable	Not Applicable
+	"Nov., 2016"	"2016/11"	462	Not Applicable	Not Applicable
+	"Dec., 2016"	"2016/12"	495	Not Applicable	Not Applicable
+"Total"			4182	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2016"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Gender: All"
+"Hispanic Origin: All"
+"MCD - ICD-10 Codes: T40.4 (Other synthetic narcotics)"
+"MCD - ICD-10 Codes: AND"
+"MCD - ICD-10 Codes: T40.5 (Cocaine)"
+"Place of Death: All"
+"Race: All"
+"States: All"
+"Ten-Year Age Groups: All"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics), X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified), X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified), X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system), X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances), X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics), X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified), X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified), X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system), X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances), X84 (Intentional"
+"self-harm by unspecified means), Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent), Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent), Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent), Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent), Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Weekday: All"
+"Year/Month: 2016"
+"Group By: Month"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Feb 2, 2018 2:43:04 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Feb 2, 2018 2:43:04 PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

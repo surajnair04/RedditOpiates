@@ -1,0 +1,700 @@
+"Notes"	"State"	"State Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"Jan., 2016"	"2016/01"	358	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Feb., 2016"	"2016/02"	323	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Mar., 2016"	"2016/03"	350	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Apr., 2016"	"2016/04"	326	Not Applicable	Not Applicable
+	"Alabama"	"01"	"May, 2016"	"2016/05"	366	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Jun., 2016"	"2016/06"	389	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Jul., 2016"	"2016/07"	341	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Aug., 2016"	"2016/08"	356	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Sep., 2016"	"2016/09"	345	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Oct., 2016"	"2016/10"	370	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Nov., 2016"	"2016/11"	321	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Dec., 2016"	"2016/12"	366	Not Applicable	Not Applicable
+"Total"	"Alabama"	"01"			4211	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Jan., 2016"	"2016/01"	72	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Feb., 2016"	"2016/02"	53	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Mar., 2016"	"2016/03"	44	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Apr., 2016"	"2016/04"	70	Not Applicable	Not Applicable
+	"Alaska"	"02"	"May, 2016"	"2016/05"	57	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Jun., 2016"	"2016/06"	54	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Jul., 2016"	"2016/07"	76	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Aug., 2016"	"2016/08"	48	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Sep., 2016"	"2016/09"	60	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Oct., 2016"	"2016/10"	57	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Nov., 2016"	"2016/11"	61	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Dec., 2016"	"2016/12"	80	Not Applicable	Not Applicable
+"Total"	"Alaska"	"02"			732	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Jan., 2016"	"2016/01"	488	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Feb., 2016"	"2016/02"	487	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Mar., 2016"	"2016/03"	524	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Apr., 2016"	"2016/04"	502	Not Applicable	Not Applicable
+	"Arizona"	"04"	"May, 2016"	"2016/05"	461	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Jun., 2016"	"2016/06"	544	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Jul., 2016"	"2016/07"	589	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Aug., 2016"	"2016/08"	507	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Sep., 2016"	"2016/09"	453	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Oct., 2016"	"2016/10"	501	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Nov., 2016"	"2016/11"	453	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Dec., 2016"	"2016/12"	433	Not Applicable	Not Applicable
+"Total"	"Arizona"	"04"			5942	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Jan., 2016"	"2016/01"	197	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Feb., 2016"	"2016/02"	187	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Mar., 2016"	"2016/03"	206	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Apr., 2016"	"2016/04"	188	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"May, 2016"	"2016/05"	219	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Jun., 2016"	"2016/06"	206	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Jul., 2016"	"2016/07"	215	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Aug., 2016"	"2016/08"	246	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Sep., 2016"	"2016/09"	230	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Oct., 2016"	"2016/10"	221	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Nov., 2016"	"2016/11"	232	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Dec., 2016"	"2016/12"	206	Not Applicable	Not Applicable
+"Total"	"Arkansas"	"05"			2553	Not Applicable	Not Applicable
+	"California"	"06"	"Jan., 2016"	"2016/01"	1695	Not Applicable	Not Applicable
+	"California"	"06"	"Feb., 2016"	"2016/02"	1612	Not Applicable	Not Applicable
+	"California"	"06"	"Mar., 2016"	"2016/03"	1680	Not Applicable	Not Applicable
+	"California"	"06"	"Apr., 2016"	"2016/04"	1683	Not Applicable	Not Applicable
+	"California"	"06"	"May, 2016"	"2016/05"	1673	Not Applicable	Not Applicable
+	"California"	"06"	"Jun., 2016"	"2016/06"	1708	Not Applicable	Not Applicable
+	"California"	"06"	"Jul., 2016"	"2016/07"	1737	Not Applicable	Not Applicable
+	"California"	"06"	"Aug., 2016"	"2016/08"	1707	Not Applicable	Not Applicable
+	"California"	"06"	"Sep., 2016"	"2016/09"	1602	Not Applicable	Not Applicable
+	"California"	"06"	"Oct., 2016"	"2016/10"	1660	Not Applicable	Not Applicable
+	"California"	"06"	"Nov., 2016"	"2016/11"	1632	Not Applicable	Not Applicable
+	"California"	"06"	"Dec., 2016"	"2016/12"	1773	Not Applicable	Not Applicable
+"Total"	"California"	"06"			20162	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Jan., 2016"	"2016/01"	338	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Feb., 2016"	"2016/02"	324	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Mar., 2016"	"2016/03"	348	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Apr., 2016"	"2016/04"	333	Not Applicable	Not Applicable
+	"Colorado"	"08"	"May, 2016"	"2016/05"	384	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Jun., 2016"	"2016/06"	402	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Jul., 2016"	"2016/07"	383	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Aug., 2016"	"2016/08"	397	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Sep., 2016"	"2016/09"	374	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Oct., 2016"	"2016/10"	402	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Nov., 2016"	"2016/11"	377	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Dec., 2016"	"2016/12"	360	Not Applicable	Not Applicable
+"Total"	"Colorado"	"08"			4422	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Jan., 2016"	"2016/01"	205	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Feb., 2016"	"2016/02"	198	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Mar., 2016"	"2016/03"	201	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Apr., 2016"	"2016/04"	204	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"May, 2016"	"2016/05"	212	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Jun., 2016"	"2016/06"	222	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Jul., 2016"	"2016/07"	221	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Aug., 2016"	"2016/08"	194	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Sep., 2016"	"2016/09"	197	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Oct., 2016"	"2016/10"	206	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Nov., 2016"	"2016/11"	245	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Dec., 2016"	"2016/12"	228	Not Applicable	Not Applicable
+"Total"	"Connecticut"	"09"			2533	Not Applicable	Not Applicable
+	"Delaware"	"10"	"Jan., 2016"	"2016/01"	48	Not Applicable	Not Applicable
+	"Delaware"	"10"	"Feb., 2016"	"2016/02"	51	Not Applicable	Not Applicable
+	"Delaware"	"10"	"Mar., 2016"	"2016/03"	61	Not Applicable	Not Applicable
+	"Delaware"	"10"	"Apr., 2016"	"2016/04"	55	Not Applicable	Not Applicable
+	"Delaware"	"10"	"May, 2016"	"2016/05"	65	Not Applicable	Not Applicable
+	"Delaware"	"10"	"Jun., 2016"	"2016/06"	60	Not Applicable	Not Applicable
+	"Delaware"	"10"	"Jul., 2016"	"2016/07"	71	Not Applicable	Not Applicable
+	"Delaware"	"10"	"Aug., 2016"	"2016/08"	61	Not Applicable	Not Applicable
+	"Delaware"	"10"	"Sep., 2016"	"2016/09"	57	Not Applicable	Not Applicable
+	"Delaware"	"10"	"Oct., 2016"	"2016/10"	53	Not Applicable	Not Applicable
+	"Delaware"	"10"	"Nov., 2016"	"2016/11"	66	Not Applicable	Not Applicable
+	"Delaware"	"10"	"Dec., 2016"	"2016/12"	73	Not Applicable	Not Applicable
+"Total"	"Delaware"	"10"			721	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"Jan., 2016"	"2016/01"	32	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"Feb., 2016"	"2016/02"	34	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"Mar., 2016"	"2016/03"	48	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"Apr., 2016"	"2016/04"	50	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"May, 2016"	"2016/05"	56	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"Jun., 2016"	"2016/06"	41	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"Jul., 2016"	"2016/07"	49	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"Aug., 2016"	"2016/08"	57	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"Sep., 2016"	"2016/09"	64	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"Oct., 2016"	"2016/10"	47	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"Nov., 2016"	"2016/11"	69	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"Dec., 2016"	"2016/12"	59	Not Applicable	Not Applicable
+"Total"	"District of Columbia"	"11"			606	Not Applicable	Not Applicable
+	"Florida"	"12"	"Jan., 2016"	"2016/01"	1278	Not Applicable	Not Applicable
+	"Florida"	"12"	"Feb., 2016"	"2016/02"	1307	Not Applicable	Not Applicable
+	"Florida"	"12"	"Mar., 2016"	"2016/03"	1518	Not Applicable	Not Applicable
+	"Florida"	"12"	"Apr., 2016"	"2016/04"	1342	Not Applicable	Not Applicable
+	"Florida"	"12"	"May, 2016"	"2016/05"	1443	Not Applicable	Not Applicable
+	"Florida"	"12"	"Jun., 2016"	"2016/06"	1365	Not Applicable	Not Applicable
+	"Florida"	"12"	"Jul., 2016"	"2016/07"	1590	Not Applicable	Not Applicable
+	"Florida"	"12"	"Aug., 2016"	"2016/08"	1492	Not Applicable	Not Applicable
+	"Florida"	"12"	"Sep., 2016"	"2016/09"	1471	Not Applicable	Not Applicable
+	"Florida"	"12"	"Oct., 2016"	"2016/10"	1616	Not Applicable	Not Applicable
+	"Florida"	"12"	"Nov., 2016"	"2016/11"	1504	Not Applicable	Not Applicable
+	"Florida"	"12"	"Dec., 2016"	"2016/12"	1467	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"			17393	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Jan., 2016"	"2016/01"	553	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Feb., 2016"	"2016/02"	535	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Mar., 2016"	"2016/03"	595	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Apr., 2016"	"2016/04"	620	Not Applicable	Not Applicable
+	"Georgia"	"13"	"May, 2016"	"2016/05"	567	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Jun., 2016"	"2016/06"	582	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Jul., 2016"	"2016/07"	615	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Aug., 2016"	"2016/08"	621	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Sep., 2016"	"2016/09"	594	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Oct., 2016"	"2016/10"	575	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Nov., 2016"	"2016/11"	642	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Dec., 2016"	"2016/12"	606	Not Applicable	Not Applicable
+"Total"	"Georgia"	"13"			7105	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"Jan., 2016"	"2016/01"	74	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"Feb., 2016"	"2016/02"	60	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"Mar., 2016"	"2016/03"	84	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"Apr., 2016"	"2016/04"	64	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"May, 2016"	"2016/05"	63	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"Jun., 2016"	"2016/06"	47	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"Jul., 2016"	"2016/07"	77	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"Aug., 2016"	"2016/08"	80	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"Sep., 2016"	"2016/09"	65	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"Oct., 2016"	"2016/10"	66	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"Nov., 2016"	"2016/11"	64	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"Dec., 2016"	"2016/12"	73	Not Applicable	Not Applicable
+"Total"	"Hawaii"	"15"			817	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Jan., 2016"	"2016/01"	91	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Feb., 2016"	"2016/02"	103	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Mar., 2016"	"2016/03"	108	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Apr., 2016"	"2016/04"	82	Not Applicable	Not Applicable
+	"Idaho"	"16"	"May, 2016"	"2016/05"	115	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Jun., 2016"	"2016/06"	123	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Jul., 2016"	"2016/07"	111	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Aug., 2016"	"2016/08"	134	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Sep., 2016"	"2016/09"	98	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Oct., 2016"	"2016/10"	121	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Nov., 2016"	"2016/11"	112	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Dec., 2016"	"2016/12"	92	Not Applicable	Not Applicable
+"Total"	"Idaho"	"16"			1290	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Jan., 2016"	"2016/01"	666	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Feb., 2016"	"2016/02"	618	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Mar., 2016"	"2016/03"	672	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Apr., 2016"	"2016/04"	644	Not Applicable	Not Applicable
+	"Illinois"	"17"	"May, 2016"	"2016/05"	732	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Jun., 2016"	"2016/06"	691	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Jul., 2016"	"2016/07"	742	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Aug., 2016"	"2016/08"	752	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Sep., 2016"	"2016/09"	669	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Oct., 2016"	"2016/10"	753	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Nov., 2016"	"2016/11"	688	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Dec., 2016"	"2016/12"	737	Not Applicable	Not Applicable
+"Total"	"Illinois"	"17"			8364	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Jan., 2016"	"2016/01"	380	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Feb., 2016"	"2016/02"	396	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Mar., 2016"	"2016/03"	443	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Apr., 2016"	"2016/04"	446	Not Applicable	Not Applicable
+	"Indiana"	"18"	"May, 2016"	"2016/05"	418	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Jun., 2016"	"2016/06"	450	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Jul., 2016"	"2016/07"	439	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Aug., 2016"	"2016/08"	471	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Sep., 2016"	"2016/09"	453	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Oct., 2016"	"2016/10"	467	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Nov., 2016"	"2016/11"	440	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Dec., 2016"	"2016/12"	466	Not Applicable	Not Applicable
+"Total"	"Indiana"	"18"			5269	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Jan., 2016"	"2016/01"	179	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Feb., 2016"	"2016/02"	170	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Mar., 2016"	"2016/03"	185	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Apr., 2016"	"2016/04"	186	Not Applicable	Not Applicable
+	"Iowa"	"19"	"May, 2016"	"2016/05"	185	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Jun., 2016"	"2016/06"	179	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Jul., 2016"	"2016/07"	177	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Aug., 2016"	"2016/08"	215	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Sep., 2016"	"2016/09"	192	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Oct., 2016"	"2016/10"	189	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Nov., 2016"	"2016/11"	183	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Dec., 2016"	"2016/12"	190	Not Applicable	Not Applicable
+"Total"	"Iowa"	"19"			2230	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Jan., 2016"	"2016/01"	171	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Feb., 2016"	"2016/02"	160	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Mar., 2016"	"2016/03"	181	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Apr., 2016"	"2016/04"	173	Not Applicable	Not Applicable
+	"Kansas"	"20"	"May, 2016"	"2016/05"	174	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Jun., 2016"	"2016/06"	190	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Jul., 2016"	"2016/07"	205	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Aug., 2016"	"2016/08"	196	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Sep., 2016"	"2016/09"	177	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Oct., 2016"	"2016/10"	162	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Nov., 2016"	"2016/11"	210	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Dec., 2016"	"2016/12"	174	Not Applicable	Not Applicable
+"Total"	"Kansas"	"20"			2173	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Jan., 2016"	"2016/01"	350	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Feb., 2016"	"2016/02"	293	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Mar., 2016"	"2016/03"	366	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Apr., 2016"	"2016/04"	406	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"May, 2016"	"2016/05"	377	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Jun., 2016"	"2016/06"	379	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Jul., 2016"	"2016/07"	374	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Aug., 2016"	"2016/08"	377	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Sep., 2016"	"2016/09"	363	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Oct., 2016"	"2016/10"	401	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Nov., 2016"	"2016/11"	325	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Dec., 2016"	"2016/12"	391	Not Applicable	Not Applicable
+"Total"	"Kentucky"	"21"			4402	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Jan., 2016"	"2016/01"	318	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Feb., 2016"	"2016/02"	294	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Mar., 2016"	"2016/03"	342	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Apr., 2016"	"2016/04"	324	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"May, 2016"	"2016/05"	363	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Jun., 2016"	"2016/06"	362	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Jul., 2016"	"2016/07"	402	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Aug., 2016"	"2016/08"	350	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Sep., 2016"	"2016/09"	379	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Oct., 2016"	"2016/10"	358	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Nov., 2016"	"2016/11"	324	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Dec., 2016"	"2016/12"	340	Not Applicable	Not Applicable
+"Total"	"Louisiana"	"22"			4156	Not Applicable	Not Applicable
+	"Maine"	"23"	"Jan., 2016"	"2016/01"	67	Not Applicable	Not Applicable
+	"Maine"	"23"	"Feb., 2016"	"2016/02"	81	Not Applicable	Not Applicable
+	"Maine"	"23"	"Mar., 2016"	"2016/03"	106	Not Applicable	Not Applicable
+	"Maine"	"23"	"Apr., 2016"	"2016/04"	81	Not Applicable	Not Applicable
+	"Maine"	"23"	"May, 2016"	"2016/05"	105	Not Applicable	Not Applicable
+	"Maine"	"23"	"Jun., 2016"	"2016/06"	120	Not Applicable	Not Applicable
+	"Maine"	"23"	"Jul., 2016"	"2016/07"	119	Not Applicable	Not Applicable
+	"Maine"	"23"	"Aug., 2016"	"2016/08"	101	Not Applicable	Not Applicable
+	"Maine"	"23"	"Sep., 2016"	"2016/09"	103	Not Applicable	Not Applicable
+	"Maine"	"23"	"Oct., 2016"	"2016/10"	88	Not Applicable	Not Applicable
+	"Maine"	"23"	"Nov., 2016"	"2016/11"	114	Not Applicable	Not Applicable
+	"Maine"	"23"	"Dec., 2016"	"2016/12"	116	Not Applicable	Not Applicable
+"Total"	"Maine"	"23"			1201	Not Applicable	Not Applicable
+	"Maryland"	"24"	"Jan., 2016"	"2016/01"	341	Not Applicable	Not Applicable
+	"Maryland"	"24"	"Feb., 2016"	"2016/02"	349	Not Applicable	Not Applicable
+	"Maryland"	"24"	"Mar., 2016"	"2016/03"	370	Not Applicable	Not Applicable
+	"Maryland"	"24"	"Apr., 2016"	"2016/04"	402	Not Applicable	Not Applicable
+	"Maryland"	"24"	"May, 2016"	"2016/05"	417	Not Applicable	Not Applicable
+	"Maryland"	"24"	"Jun., 2016"	"2016/06"	463	Not Applicable	Not Applicable
+	"Maryland"	"24"	"Jul., 2016"	"2016/07"	465	Not Applicable	Not Applicable
+	"Maryland"	"24"	"Aug., 2016"	"2016/08"	428	Not Applicable	Not Applicable
+	"Maryland"	"24"	"Sep., 2016"	"2016/09"	425	Not Applicable	Not Applicable
+	"Maryland"	"24"	"Oct., 2016"	"2016/10"	404	Not Applicable	Not Applicable
+	"Maryland"	"24"	"Nov., 2016"	"2016/11"	402	Not Applicable	Not Applicable
+	"Maryland"	"24"	"Dec., 2016"	"2016/12"	495	Not Applicable	Not Applicable
+"Total"	"Maryland"	"24"			4961	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Jan., 2016"	"2016/01"	369	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Feb., 2016"	"2016/02"	371	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Mar., 2016"	"2016/03"	403	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Apr., 2016"	"2016/04"	394	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"May, 2016"	"2016/05"	414	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Jun., 2016"	"2016/06"	370	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Jul., 2016"	"2016/07"	410	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Aug., 2016"	"2016/08"	381	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Sep., 2016"	"2016/09"	411	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Oct., 2016"	"2016/10"	419	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Nov., 2016"	"2016/11"	420	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Dec., 2016"	"2016/12"	363	Not Applicable	Not Applicable
+"Total"	"Massachusetts"	"25"			4725	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Jan., 2016"	"2016/01"	596	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Feb., 2016"	"2016/02"	576	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Mar., 2016"	"2016/03"	629	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Apr., 2016"	"2016/04"	604	Not Applicable	Not Applicable
+	"Michigan"	"26"	"May, 2016"	"2016/05"	644	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Jun., 2016"	"2016/06"	604	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Jul., 2016"	"2016/07"	661	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Aug., 2016"	"2016/08"	675	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Sep., 2016"	"2016/09"	674	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Oct., 2016"	"2016/10"	723	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Nov., 2016"	"2016/11"	678	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Dec., 2016"	"2016/12"	687	Not Applicable	Not Applicable
+"Total"	"Michigan"	"26"			7751	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Jan., 2016"	"2016/01"	322	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Feb., 2016"	"2016/02"	272	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Mar., 2016"	"2016/03"	290	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Apr., 2016"	"2016/04"	311	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"May, 2016"	"2016/05"	308	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Jun., 2016"	"2016/06"	306	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Jul., 2016"	"2016/07"	295	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Aug., 2016"	"2016/08"	322	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Sep., 2016"	"2016/09"	295	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Oct., 2016"	"2016/10"	325	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Nov., 2016"	"2016/11"	346	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Dec., 2016"	"2016/12"	305	Not Applicable	Not Applicable
+"Total"	"Minnesota"	"27"			3697	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Jan., 2016"	"2016/01"	227	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Feb., 2016"	"2016/02"	178	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Mar., 2016"	"2016/03"	202	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Apr., 2016"	"2016/04"	208	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"May, 2016"	"2016/05"	242	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Jun., 2016"	"2016/06"	242	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Jul., 2016"	"2016/07"	230	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Aug., 2016"	"2016/08"	231	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Sep., 2016"	"2016/09"	212	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Oct., 2016"	"2016/10"	242	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Nov., 2016"	"2016/11"	215	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Dec., 2016"	"2016/12"	219	Not Applicable	Not Applicable
+"Total"	"Mississippi"	"28"			2648	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Jan., 2016"	"2016/01"	453	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Feb., 2016"	"2016/02"	375	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Mar., 2016"	"2016/03"	435	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Apr., 2016"	"2016/04"	452	Not Applicable	Not Applicable
+	"Missouri"	"29"	"May, 2016"	"2016/05"	438	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Jun., 2016"	"2016/06"	457	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Jul., 2016"	"2016/07"	504	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Aug., 2016"	"2016/08"	477	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Sep., 2016"	"2016/09"	503	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Oct., 2016"	"2016/10"	476	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Nov., 2016"	"2016/11"	432	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Dec., 2016"	"2016/12"	502	Not Applicable	Not Applicable
+"Total"	"Missouri"	"29"			5504	Not Applicable	Not Applicable
+	"Montana"	"30"	"Jan., 2016"	"2016/01"	73	Not Applicable	Not Applicable
+	"Montana"	"30"	"Feb., 2016"	"2016/02"	87	Not Applicable	Not Applicable
+	"Montana"	"30"	"Mar., 2016"	"2016/03"	79	Not Applicable	Not Applicable
+	"Montana"	"30"	"Apr., 2016"	"2016/04"	81	Not Applicable	Not Applicable
+	"Montana"	"30"	"May, 2016"	"2016/05"	70	Not Applicable	Not Applicable
+	"Montana"	"30"	"Jun., 2016"	"2016/06"	62	Not Applicable	Not Applicable
+	"Montana"	"30"	"Jul., 2016"	"2016/07"	98	Not Applicable	Not Applicable
+	"Montana"	"30"	"Aug., 2016"	"2016/08"	102	Not Applicable	Not Applicable
+	"Montana"	"30"	"Sep., 2016"	"2016/09"	84	Not Applicable	Not Applicable
+	"Montana"	"30"	"Oct., 2016"	"2016/10"	83	Not Applicable	Not Applicable
+	"Montana"	"30"	"Nov., 2016"	"2016/11"	76	Not Applicable	Not Applicable
+	"Montana"	"30"	"Dec., 2016"	"2016/12"	89	Not Applicable	Not Applicable
+"Total"	"Montana"	"30"			984	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Jan., 2016"	"2016/01"	101	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Feb., 2016"	"2016/02"	75	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Mar., 2016"	"2016/03"	92	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Apr., 2016"	"2016/04"	92	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"May, 2016"	"2016/05"	98	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Jun., 2016"	"2016/06"	87	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Jul., 2016"	"2016/07"	93	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Aug., 2016"	"2016/08"	116	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Sep., 2016"	"2016/09"	96	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Oct., 2016"	"2016/10"	83	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Nov., 2016"	"2016/11"	92	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Dec., 2016"	"2016/12"	97	Not Applicable	Not Applicable
+"Total"	"Nebraska"	"31"			1122	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Jan., 2016"	"2016/01"	168	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Feb., 2016"	"2016/02"	198	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Mar., 2016"	"2016/03"	179	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Apr., 2016"	"2016/04"	179	Not Applicable	Not Applicable
+	"Nevada"	"32"	"May, 2016"	"2016/05"	175	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Jun., 2016"	"2016/06"	211	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Jul., 2016"	"2016/07"	248	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Aug., 2016"	"2016/08"	230	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Sep., 2016"	"2016/09"	183	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Oct., 2016"	"2016/10"	204	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Nov., 2016"	"2016/11"	186	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Dec., 2016"	"2016/12"	179	Not Applicable	Not Applicable
+"Total"	"Nevada"	"32"			2340	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Jan., 2016"	"2016/01"	104	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Feb., 2016"	"2016/02"	98	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Mar., 2016"	"2016/03"	103	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Apr., 2016"	"2016/04"	90	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"May, 2016"	"2016/05"	102	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Jun., 2016"	"2016/06"	72	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Jul., 2016"	"2016/07"	105	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Aug., 2016"	"2016/08"	98	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Sep., 2016"	"2016/09"	129	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Oct., 2016"	"2016/10"	117	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Nov., 2016"	"2016/11"	102	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Dec., 2016"	"2016/12"	99	Not Applicable	Not Applicable
+"Total"	"New Hampshire"	"33"			1219	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Jan., 2016"	"2016/01"	386	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Feb., 2016"	"2016/02"	382	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Mar., 2016"	"2016/03"	433	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Apr., 2016"	"2016/04"	468	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"May, 2016"	"2016/05"	386	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Jun., 2016"	"2016/06"	377	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Jul., 2016"	"2016/07"	476	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Aug., 2016"	"2016/08"	438	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Sep., 2016"	"2016/09"	383	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Oct., 2016"	"2016/10"	467	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Nov., 2016"	"2016/11"	445	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Dec., 2016"	"2016/12"	474	Not Applicable	Not Applicable
+"Total"	"New Jersey"	"34"			5115	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Jan., 2016"	"2016/01"	164	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Feb., 2016"	"2016/02"	187	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Mar., 2016"	"2016/03"	182	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Apr., 2016"	"2016/04"	179	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"May, 2016"	"2016/05"	198	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Jun., 2016"	"2016/06"	199	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Jul., 2016"	"2016/07"	207	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Aug., 2016"	"2016/08"	188	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Sep., 2016"	"2016/09"	163	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Oct., 2016"	"2016/10"	176	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Nov., 2016"	"2016/11"	195	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Dec., 2016"	"2016/12"	189	Not Applicable	Not Applicable
+"Total"	"New Mexico"	"35"			2227	Not Applicable	Not Applicable
+	"New York"	"36"	"Jan., 2016"	"2016/01"	822	Not Applicable	Not Applicable
+	"New York"	"36"	"Feb., 2016"	"2016/02"	786	Not Applicable	Not Applicable
+	"New York"	"36"	"Mar., 2016"	"2016/03"	876	Not Applicable	Not Applicable
+	"New York"	"36"	"Apr., 2016"	"2016/04"	810	Not Applicable	Not Applicable
+	"New York"	"36"	"May, 2016"	"2016/05"	837	Not Applicable	Not Applicable
+	"New York"	"36"	"Jun., 2016"	"2016/06"	826	Not Applicable	Not Applicable
+	"New York"	"36"	"Jul., 2016"	"2016/07"	908	Not Applicable	Not Applicable
+	"New York"	"36"	"Aug., 2016"	"2016/08"	916	Not Applicable	Not Applicable
+	"New York"	"36"	"Sep., 2016"	"2016/09"	876	Not Applicable	Not Applicable
+	"New York"	"36"	"Oct., 2016"	"2016/10"	868	Not Applicable	Not Applicable
+	"New York"	"36"	"Nov., 2016"	"2016/11"	845	Not Applicable	Not Applicable
+	"New York"	"36"	"Dec., 2016"	"2016/12"	874	Not Applicable	Not Applicable
+"Total"	"New York"	"36"			10244	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Jan., 2016"	"2016/01"	635	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Feb., 2016"	"2016/02"	615	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Mar., 2016"	"2016/03"	666	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Apr., 2016"	"2016/04"	658	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"May, 2016"	"2016/05"	666	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Jun., 2016"	"2016/06"	641	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Jul., 2016"	"2016/07"	650	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Aug., 2016"	"2016/08"	647	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Sep., 2016"	"2016/09"	622	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Oct., 2016"	"2016/10"	690	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Nov., 2016"	"2016/11"	611	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Dec., 2016"	"2016/12"	686	Not Applicable	Not Applicable
+"Total"	"North Carolina"	"37"			7787	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Jan., 2016"	"2016/01"	28	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Feb., 2016"	"2016/02"	32	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Mar., 2016"	"2016/03"	48	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Apr., 2016"	"2016/04"	47	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"May, 2016"	"2016/05"	46	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Jun., 2016"	"2016/06"	59	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Jul., 2016"	"2016/07"	42	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Aug., 2016"	"2016/08"	51	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Sep., 2016"	"2016/09"	39	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Oct., 2016"	"2016/10"	60	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Nov., 2016"	"2016/11"	46	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Dec., 2016"	"2016/12"	48	Not Applicable	Not Applicable
+"Total"	"North Dakota"	"38"			546	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Jan., 2016"	"2016/01"	839	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Feb., 2016"	"2016/02"	774	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Mar., 2016"	"2016/03"	883	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Apr., 2016"	"2016/04"	843	Not Applicable	Not Applicable
+	"Ohio"	"39"	"May, 2016"	"2016/05"	820	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Jun., 2016"	"2016/06"	879	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Jul., 2016"	"2016/07"	973	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Aug., 2016"	"2016/08"	929	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Sep., 2016"	"2016/09"	923	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Oct., 2016"	"2016/10"	954	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Nov., 2016"	"2016/11"	912	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Dec., 2016"	"2016/12"	977	Not Applicable	Not Applicable
+"Total"	"Ohio"	"39"			10706	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Jan., 2016"	"2016/01"	311	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Feb., 2016"	"2016/02"	285	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Mar., 2016"	"2016/03"	337	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Apr., 2016"	"2016/04"	300	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"May, 2016"	"2016/05"	352	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Jun., 2016"	"2016/06"	307	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Jul., 2016"	"2016/07"	351	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Aug., 2016"	"2016/08"	366	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Sep., 2016"	"2016/09"	315	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Oct., 2016"	"2016/10"	332	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Nov., 2016"	"2016/11"	281	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Dec., 2016"	"2016/12"	318	Not Applicable	Not Applicable
+"Total"	"Oklahoma"	"40"			3855	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Jan., 2016"	"2016/01"	252	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Feb., 2016"	"2016/02"	228	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Mar., 2016"	"2016/03"	248	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Apr., 2016"	"2016/04"	264	Not Applicable	Not Applicable
+	"Oregon"	"41"	"May, 2016"	"2016/05"	266	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Jun., 2016"	"2016/06"	264	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Jul., 2016"	"2016/07"	256	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Aug., 2016"	"2016/08"	298	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Sep., 2016"	"2016/09"	285	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Oct., 2016"	"2016/10"	270	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Nov., 2016"	"2016/11"	234	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Dec., 2016"	"2016/12"	270	Not Applicable	Not Applicable
+"Total"	"Oregon"	"41"			3135	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Jan., 2016"	"2016/01"	817	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Feb., 2016"	"2016/02"	858	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Mar., 2016"	"2016/03"	950	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Apr., 2016"	"2016/04"	907	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"May, 2016"	"2016/05"	881	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Jun., 2016"	"2016/06"	906	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Jul., 2016"	"2016/07"	1024	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Aug., 2016"	"2016/08"	953	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Sep., 2016"	"2016/09"	1025	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Oct., 2016"	"2016/10"	1035	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Nov., 2016"	"2016/11"	1055	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Dec., 2016"	"2016/12"	1076	Not Applicable	Not Applicable
+"Total"	"Pennsylvania"	"42"			11487	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Jan., 2016"	"2016/01"	71	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Feb., 2016"	"2016/02"	77	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Mar., 2016"	"2016/03"	74	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Apr., 2016"	"2016/04"	64	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"May, 2016"	"2016/05"	71	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Jun., 2016"	"2016/06"	76	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Jul., 2016"	"2016/07"	66	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Aug., 2016"	"2016/08"	62	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Sep., 2016"	"2016/09"	64	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Oct., 2016"	"2016/10"	67	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Nov., 2016"	"2016/11"	83	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Dec., 2016"	"2016/12"	74	Not Applicable	Not Applicable
+"Total"	"Rhode Island"	"44"			849	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Jan., 2016"	"2016/01"	341	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Feb., 2016"	"2016/02"	312	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Mar., 2016"	"2016/03"	389	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Apr., 2016"	"2016/04"	341	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"May, 2016"	"2016/05"	345	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Jun., 2016"	"2016/06"	366	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Jul., 2016"	"2016/07"	409	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Aug., 2016"	"2016/08"	362	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Sep., 2016"	"2016/09"	383	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Oct., 2016"	"2016/10"	396	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Nov., 2016"	"2016/11"	350	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Dec., 2016"	"2016/12"	358	Not Applicable	Not Applicable
+"Total"	"South Carolina"	"45"			4352	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Jan., 2016"	"2016/01"	46	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Feb., 2016"	"2016/02"	61	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Mar., 2016"	"2016/03"	49	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Apr., 2016"	"2016/04"	59	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"May, 2016"	"2016/05"	62	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Jun., 2016"	"2016/06"	60	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Jul., 2016"	"2016/07"	65	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Aug., 2016"	"2016/08"	66	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Sep., 2016"	"2016/09"	51	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Oct., 2016"	"2016/10"	73	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Nov., 2016"	"2016/11"	72	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Dec., 2016"	"2016/12"	62	Not Applicable	Not Applicable
+"Total"	"South Dakota"	"46"			726	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Jan., 2016"	"2016/01"	504	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Feb., 2016"	"2016/02"	455	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Mar., 2016"	"2016/03"	481	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Apr., 2016"	"2016/04"	477	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"May, 2016"	"2016/05"	558	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Jun., 2016"	"2016/06"	511	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Jul., 2016"	"2016/07"	594	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Aug., 2016"	"2016/08"	515	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Sep., 2016"	"2016/09"	471	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Oct., 2016"	"2016/10"	496	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Nov., 2016"	"2016/11"	522	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Dec., 2016"	"2016/12"	547	Not Applicable	Not Applicable
+"Total"	"Tennessee"	"47"			6131	Not Applicable	Not Applicable
+	"Texas"	"48"	"Jan., 2016"	"2016/01"	1283	Not Applicable	Not Applicable
+	"Texas"	"48"	"Feb., 2016"	"2016/02"	1292	Not Applicable	Not Applicable
+	"Texas"	"48"	"Mar., 2016"	"2016/03"	1341	Not Applicable	Not Applicable
+	"Texas"	"48"	"Apr., 2016"	"2016/04"	1337	Not Applicable	Not Applicable
+	"Texas"	"48"	"May, 2016"	"2016/05"	1412	Not Applicable	Not Applicable
+	"Texas"	"48"	"Jun., 2016"	"2016/06"	1348	Not Applicable	Not Applicable
+	"Texas"	"48"	"Jul., 2016"	"2016/07"	1491	Not Applicable	Not Applicable
+	"Texas"	"48"	"Aug., 2016"	"2016/08"	1410	Not Applicable	Not Applicable
+	"Texas"	"48"	"Sep., 2016"	"2016/09"	1330	Not Applicable	Not Applicable
+	"Texas"	"48"	"Oct., 2016"	"2016/10"	1351	Not Applicable	Not Applicable
+	"Texas"	"48"	"Nov., 2016"	"2016/11"	1267	Not Applicable	Not Applicable
+	"Texas"	"48"	"Dec., 2016"	"2016/12"	1357	Not Applicable	Not Applicable
+"Total"	"Texas"	"48"			16219	Not Applicable	Not Applicable
+	"Utah"	"49"	"Jan., 2016"	"2016/01"	177	Not Applicable	Not Applicable
+	"Utah"	"49"	"Feb., 2016"	"2016/02"	169	Not Applicable	Not Applicable
+	"Utah"	"49"	"Mar., 2016"	"2016/03"	200	Not Applicable	Not Applicable
+	"Utah"	"49"	"Apr., 2016"	"2016/04"	163	Not Applicable	Not Applicable
+	"Utah"	"49"	"May, 2016"	"2016/05"	173	Not Applicable	Not Applicable
+	"Utah"	"49"	"Jun., 2016"	"2016/06"	175	Not Applicable	Not Applicable
+	"Utah"	"49"	"Jul., 2016"	"2016/07"	168	Not Applicable	Not Applicable
+	"Utah"	"49"	"Aug., 2016"	"2016/08"	188	Not Applicable	Not Applicable
+	"Utah"	"49"	"Sep., 2016"	"2016/09"	174	Not Applicable	Not Applicable
+	"Utah"	"49"	"Oct., 2016"	"2016/10"	166	Not Applicable	Not Applicable
+	"Utah"	"49"	"Nov., 2016"	"2016/11"	159	Not Applicable	Not Applicable
+	"Utah"	"49"	"Dec., 2016"	"2016/12"	153	Not Applicable	Not Applicable
+"Total"	"Utah"	"49"			2065	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Jan., 2016"	"2016/01"	49	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Feb., 2016"	"2016/02"	45	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Mar., 2016"	"2016/03"	54	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Apr., 2016"	"2016/04"	38	Not Applicable	Not Applicable
+	"Vermont"	"50"	"May, 2016"	"2016/05"	43	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Jun., 2016"	"2016/06"	41	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Jul., 2016"	"2016/07"	36	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Aug., 2016"	"2016/08"	49	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Sep., 2016"	"2016/09"	36	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Oct., 2016"	"2016/10"	45	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Nov., 2016"	"2016/11"	39	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Dec., 2016"	"2016/12"	52	Not Applicable	Not Applicable
+"Total"	"Vermont"	"50"			527	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Jan., 2016"	"2016/01"	448	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Feb., 2016"	"2016/02"	462	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Mar., 2016"	"2016/03"	484	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Apr., 2016"	"2016/04"	408	Not Applicable	Not Applicable
+	"Virginia"	"51"	"May, 2016"	"2016/05"	442	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Jun., 2016"	"2016/06"	439	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Jul., 2016"	"2016/07"	476	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Aug., 2016"	"2016/08"	494	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Sep., 2016"	"2016/09"	430	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Oct., 2016"	"2016/10"	471	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Nov., 2016"	"2016/11"	509	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Dec., 2016"	"2016/12"	489	Not Applicable	Not Applicable
+"Total"	"Virginia"	"51"			5552	Not Applicable	Not Applicable
+	"Washington"	"53"	"Jan., 2016"	"2016/01"	382	Not Applicable	Not Applicable
+	"Washington"	"53"	"Feb., 2016"	"2016/02"	362	Not Applicable	Not Applicable
+	"Washington"	"53"	"Mar., 2016"	"2016/03"	395	Not Applicable	Not Applicable
+	"Washington"	"53"	"Apr., 2016"	"2016/04"	403	Not Applicable	Not Applicable
+	"Washington"	"53"	"May, 2016"	"2016/05"	419	Not Applicable	Not Applicable
+	"Washington"	"53"	"Jun., 2016"	"2016/06"	417	Not Applicable	Not Applicable
+	"Washington"	"53"	"Jul., 2016"	"2016/07"	436	Not Applicable	Not Applicable
+	"Washington"	"53"	"Aug., 2016"	"2016/08"	390	Not Applicable	Not Applicable
+	"Washington"	"53"	"Sep., 2016"	"2016/09"	428	Not Applicable	Not Applicable
+	"Washington"	"53"	"Oct., 2016"	"2016/10"	378	Not Applicable	Not Applicable
+	"Washington"	"53"	"Nov., 2016"	"2016/11"	364	Not Applicable	Not Applicable
+	"Washington"	"53"	"Dec., 2016"	"2016/12"	408	Not Applicable	Not Applicable
+"Total"	"Washington"	"53"			4782	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Jan., 2016"	"2016/01"	175	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Feb., 2016"	"2016/02"	190	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Mar., 2016"	"2016/03"	205	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Apr., 2016"	"2016/04"	159	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"May, 2016"	"2016/05"	165	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Jun., 2016"	"2016/06"	193	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Jul., 2016"	"2016/07"	188	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Aug., 2016"	"2016/08"	197	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Sep., 2016"	"2016/09"	205	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Oct., 2016"	"2016/10"	201	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Nov., 2016"	"2016/11"	190	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Dec., 2016"	"2016/12"	215	Not Applicable	Not Applicable
+"Total"	"West Virginia"	"54"			2283	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Jan., 2016"	"2016/01"	391	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Feb., 2016"	"2016/02"	412	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Mar., 2016"	"2016/03"	401	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Apr., 2016"	"2016/04"	393	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"May, 2016"	"2016/05"	380	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Jun., 2016"	"2016/06"	385	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Jul., 2016"	"2016/07"	412	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Aug., 2016"	"2016/08"	460	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Sep., 2016"	"2016/09"	418	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Oct., 2016"	"2016/10"	399	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Nov., 2016"	"2016/11"	390	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Dec., 2016"	"2016/12"	380	Not Applicable	Not Applicable
+"Total"	"Wisconsin"	"55"			4821	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Jan., 2016"	"2016/01"	47	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Feb., 2016"	"2016/02"	32	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Mar., 2016"	"2016/03"	47	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Apr., 2016"	"2016/04"	32	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"May, 2016"	"2016/05"	52	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Jun., 2016"	"2016/06"	53	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Jul., 2016"	"2016/07"	54	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Aug., 2016"	"2016/08"	57	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Sep., 2016"	"2016/09"	46	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Oct., 2016"	"2016/10"	43	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Nov., 2016"	"2016/11"	42	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Dec., 2016"	"2016/12"	47	Not Applicable	Not Applicable
+"Total"	"Wyoming"	"56"			552	Not Applicable	Not Applicable
+"Total"					235194	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2016"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Gender: All"
+"Hispanic Origin: All"
+"MCD - ICD-10 Codes: All"
+"Place of Death: All"
+"Race: All"
+"States: All"
+"Ten-Year Age Groups: All"
+"UCD - ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"Weekday: All"
+"Year/Month: 2016"
+"Group By: State, Month"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Feb 2, 2018 1:44:41 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Feb 2, 2018 1:44:41 PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
