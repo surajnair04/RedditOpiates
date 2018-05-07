@@ -23,15 +23,15 @@ class DrugLexicon:
 		self.add_drugs()
 		
 	def add_drugs(self):
-		self.add_slang("codeine", ["codeine", "captain cody", "slizzurp"])
-		self.add_slang("fentanyl", ["fentanyl", "fent", "murder 8"])
-		self.add_slang("hydrocodone", ["hydrocodone", "narco", "norco", "vickies", "watson-387"])
-		self.add_slang("hydromorphone", ["hydromorphone", "dillies"])
-		self.add_slang("meperidine", ["meperidine", "demmies"])
-		self.add_slang("methadone", ["methadone", "amidone", "fizzies"])
-		self.add_slang("morphine", ["morphine", "emsel", "morf", "morpho"])
-		self.add_slang("oxycodone", ["oxycodone", "oxy", "oxycet", "oxycotton", "percs"])
-		self.add_slang("oxymorphone", ["oxymorphone"])
+		self.add_slang("codeine", ["codeine", "captain cody", "slizzurp"]) #Natural
+		self.add_slang("fentanyl", ["fentanyl", "fent", "murder 8"]) #Fully-Synthetic
+		self.add_slang("hydrocodone", ["hydrocodone", "narco", "norco", "vickies", "watson-387"]) #Semi-Synthetic
+		self.add_slang("hydromorphone", ["hydromorphone", "dillies"]) #Semi-Synthetic
+		self.add_slang("meperidine", ["meperidine", "demmies"]) #Fully-Synthetic
+		self.add_slang("methadone", ["methadone", "amidone", "fizzies"]) #Fully-Synthetic
+		self.add_slang("morphine", ["morphine", "emsel", "morf", "morpho"]) #Natural
+		self.add_slang("oxycodone", ["oxycodone", "oxy", "oxycet", "oxycotton", "percs"]) #Semi-Synthetic
+		self.add_slang("oxymorphone", ["oxymorphone"]) #Semi-Synthetic
 	
 	def add_slang(self, drug, slang, parent=None):
 		slangSet = set(slang)
